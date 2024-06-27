@@ -1,4 +1,4 @@
-# Checkly GitHub
+# CodeZeus GitHub
 
 Build & run synthetics that scale. Monitoring as code workflow for developers: programmable, fast, reliable.
 
